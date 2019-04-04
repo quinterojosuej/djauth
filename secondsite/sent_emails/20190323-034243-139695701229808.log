@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: quinterojosuej@gmail.com
+Date: Sat, 23 Mar 2019 03:42:43 -0000
+Message-ID: <155331256346.113.1611161718701954544@LAPTOP-P4UO3BRS.localdomain>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/54v-19314c9d5b690c908915/
+
+Your username, in case you've forgotten: quinram
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
